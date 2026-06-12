@@ -1,49 +1,49 @@
 # 🚀 OrtizDigital
 
-### Accessibility • Cybersecurity • Modern Web Solutions
+### Accesibilidad • Ciberseguridad • Soluciones Web Modernas
 
-Building secure, accessible and modern digital solutions for businesses, entrepreneurs and organizations.
-
----
-
-## 🌐 About
-
-OrtizDigital is a technology-focused initiative that combines web accessibility, cybersecurity and modern web development to create high-quality digital experiences.
-
-We help organizations improve their digital presence through accessibility assessments, secure development practices and modern technologies.
+Construyendo soluciones digitales seguras, accesibles y modernas para empresas, autónomos y organizaciones.
 
 ---
 
-## 🚀 Services
+## 🌐 Acerca de
 
-### ♿ Accessibility
+OrtizDigital es una iniciativa tecnológica que combina accesibilidad web, ciberseguridad y desarrollo web moderno para crear experiencias digitales de alta calidad.
 
-* WCAG 2.1 Audits
-* Accessibility Statements
-* Accessibility Compliance Reviews
-* Accessibility Consulting
-* Digital Inclusion Best Practices
-
-### 🔐 Cybersecurity
-
-* Vulnerability Assessments
-* Security Reviews
-* Risk Analysis
-* Compliance Support
-* Information Security Best Practices
-
-### 💻 Development
-
-* Modern Web Applications
-* Next.js Development
-* API Integrations
-* Full-Stack Applications
-* Performance Optimization
-* SEO Foundations
+Ayudamos a organizaciones a mejorar su presencia digital mediante auditorías de accesibilidad, buenas prácticas de seguridad y tecnologías modernas.
 
 ---
 
-## 🛠 Technologies
+## 🚀 Servicios
+
+### ♿ Accesibilidad Digital
+
+* Auditorías WCAG 2.1
+* Declaraciones de Accesibilidad
+* Revisiones de cumplimiento normativo
+* Consultoría de accesibilidad
+* Buenas prácticas de inclusión digital
+
+### 🔐 Ciberseguridad
+
+* Evaluación de vulnerabilidades
+* Revisiones de seguridad
+* Análisis de riesgos
+* Apoyo en cumplimiento normativo
+* Buenas prácticas de seguridad de la información
+
+### 💻 Desarrollo
+
+* Aplicaciones web modernas
+* Desarrollo con Next.js
+* Integración de APIs
+* Aplicaciones Full-Stack
+* Optimización de rendimiento
+* Fundamentos SEO
+
+---
+
+## 🛠 Tecnologías
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
@@ -59,64 +59,64 @@ We help organizations improve their digital presence through accessibility asses
 
 ---
 
-## 🎯 Core Principles
+## 🎯 Principios
 
-* Accessibility by Design
-* Security by Default
-* Performance First
-* User-Centered Experiences
-* Sustainable Technology
+* Accesibilidad desde el diseño
+* Seguridad por defecto
+* Rendimiento como prioridad
+* Experiencias centradas en el usuario
+* Tecnología sostenible y escalable
 
 ---
 
-## 👨‍💻 Founder
+## 👨‍💻 Fundador
 
-OrtizDigital is led by **Alberto Ortiz**, a cybersecurity professional currently working as a **Cybersecurity Analyst & Compliance Consultant at EY**.
+OrtizDigital está impulsado por **Alberto Ortiz**, profesional de ciberseguridad que actualmente trabaja como **Cybersecurity Analyst & Compliance Consultant en EY**.
 
-Experience includes:
+Experiencia en:
 
-* Information Security
-* Vulnerability Assessment
-* Risk Management
+* Seguridad de la Información
+* Evaluación de Vulnerabilidades
+* Gestión de Riesgos
 * ISO 27001
 * GDPR
-* Security Audits
-* Regulated Environments
-* Digital Accessibility
+* Auditorías de Seguridad
+* Entornos Regulados
+* Accesibilidad Digital
 
 ---
 
-## 📜 Certifications
+## 📜 Certificaciones
 
 * Data & Cybersecurity — BBVA
-* National Security Framework (ENS) — CCN-CERT
+* Esquema Nacional de Seguridad (ENS) — CCN-CERT
 * SQL for Data Science — University of California, Davis
-* EF SET English Certificate (C2 Proficiency)
+* EF SET English Certificate (Nivel C2)
 * Cambridge First Certificate in English
 
 ---
 
-## 🎓 Education
+## 🎓 Formación
 
-**B.Sc. Computer Engineering**
-Nebrija University
+**Grado en Ingeniería Informática**
+Universidad Nebrija
 
 ---
 
-## 🌍 Website
+## 🌍 Sitio Web
 
 https://ortizdigital.github.io/
 
 ---
 
-## 🤝 Connect
+## 🤝 Contacto
 
 💼 LinkedIn
 https://www.linkedin.com/in/alberto-ortiz-gonzalez
 
-🌐 Website
+🌐 Web
 https://ortizdigital.github.io/
 
 ---
 
-> Building secure, accessible and modern digital experiences.
+> Construyendo experiencias digitales seguras, accesibles y preparadas para el futuro.
